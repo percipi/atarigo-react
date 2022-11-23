@@ -1,0 +1,28 @@
+{
+  "name": "atarigo-react",
+  "version": "1.0.0",
+  "description": "Atari Go game in react",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/percipi/atarigo-react.git"
+  },
+  "keywords": [
+    "atari",
+    "go",
+    "game",
+    "react"
+  ],
+  "author": "Lukasz Pater",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/percipi/atarigo-react/issues"
+  },
+  "homepage": "https://github.com/percipi/atarigo-react#readme"
+}
